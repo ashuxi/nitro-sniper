@@ -5,11 +5,11 @@
    "logo": "https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png",
    "env": {
       "mainToken": {
-         "description": "Your main account's token, used for redeeming the gift.",
+         "description": "Mjg0MzkwOTI5NzYxMzA0NTc4.G8Tx_r.WTRQNK37Bkzo94PjNj0I2qCyvALuU-jDD1wX4k",
          "required": true
       },
       "guildTokens": {
-         "description": "Your alt accounts tokens (Typically multiple with a lot of guilds)  (Split multiple tokens with \",\")",
+         "description": ("Mjg0MzkwOTI5NzYxMzA0NTc4.G8Tx_r.WTRQNK37Bkzo94PjNj0I2qCyvALuU-jDD1wX4k")  (Split multiple tokens with \",\")",
          "required": true
       }
    }
